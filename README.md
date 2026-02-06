@@ -28,6 +28,7 @@ feel free to use steam_api.dll from any source as I just got it from this video 
 
 
 # RELATED PROJECTS FOR RS2014
-https://github.com/mdias/rs_asio #registers input as a tone cable highly recommended
-https://codeberg.org/nizo/linux-rocksmith/src/branch/main #guides for installing on linux
+https://github.com/mdias/rs_asio registers input as a tone cable highly recommended
+
+https://codeberg.org/nizo/linux-rocksmith/src/branch/main guides for installing on linux
 
