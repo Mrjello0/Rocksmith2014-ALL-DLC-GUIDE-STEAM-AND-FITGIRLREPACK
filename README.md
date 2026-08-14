@@ -27,8 +27,8 @@ I'll be hosting the official steam_api.dll on this github that I used in 2025 be
 feel free to use steam_api.dll from any source as I just got it from this video and unsure if it still works https://www.youtube.com/watch?v=GjAmLgBV950
 
 
-# RELATED PROJECTS FOR RS2014
-https://github.com/mdias/rs_asio registers input as a tone cable highly recommended
+# RELATED PROJECTS FOR RS2014[
+https://github.com/wineasio/wineasio registers input as a tone cable highly recommended
 
 https://codeberg.org/nizo/linux-rocksmith/src/branch/main guides for installing on linux
 
